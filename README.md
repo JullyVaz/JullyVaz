@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/1l7Yjht.png" width="100%" />
+  <img src="https://i.imgur.com/EH7JjZP.png" width="100%" />
 </div>
+
 
 
 # 👋 Olá, eu é sou a **Juliane Vaz**
