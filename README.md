@@ -1,9 +1,7 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,100:0072ff&height=220&text=Juliane%20Vaz&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
-
-
-
 
 # 👋 Olá, eu é sou a **Juliane Vaz**
 
