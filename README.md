@@ -1,4 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243949,100:517fa4&height=200&text=Juliane%20Vaz&fontSize=42&fontColor=ffffff&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&text=Juliane%20Vaz&fontColor=ffffff&fontSize=38" />
 </div>
+
 
