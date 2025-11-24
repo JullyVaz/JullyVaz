@@ -26,7 +26,7 @@ Experiência prática em:
 # 💼 Experiência Profissional
 
 ### 🔹 **Software Engineer — John Deere**  
-**2023 – 2024**
+**2024 – 2025**
 
 Atuação no sistema OSGT, contribuindo com desenvolvimento, suporte técnico e automação.
 
