@@ -1,9 +1,4 @@
 
-<!-- Banner profissional -->
-<div align="center">
-  <img src="/mnt/data/A_digital_illustration_banner_features_Juliane_Vaz.png" width="100%" />
-</div>
-
 # 👋 Olá, eu sou a **Juliane Vaz**
 
 ### 💼 Desenvolvedora Back-End | Analista de Sistemas  
