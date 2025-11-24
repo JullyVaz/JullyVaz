@@ -1,6 +1,6 @@
-<!-- Banner animado -->
+<!-- Banner profissional -->
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=140&section=header&text=Juliane%20Vaz&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=65" />
 </div>
 
 # 👋 Olá, eu sou a **Juliane Vaz**
@@ -20,10 +20,10 @@ Integro técnicas grafotécnicas tradicionais com **análise de metadados, padr�
 Também possuo sólida experiência como **Desenvolvedora Back-End**, com domínio em:
 
 - **C#, .NET, ASP.NET Core, Entity Framework**
-- Arquitetura em camadas & Clean Code
+- Arquitetura em camadas • Clean Code • SOLID
 - Testes automatizados (xUnit, Moq)
-- AWS Lambda, GitHub Actions, Terraform
-- SQL Server, MySQL, Oracle (PL/SQL)
+- AWS Lambda • GitHub Actions • Terraform
+- SQL Server • MySQL • Oracle (PL/SQL)
 
 Atuei como **Software Engineer na John Deere**, com resultados como:
 
@@ -69,13 +69,13 @@ Atuei como **Software Engineer na John Deere**, com resultados como:
 ---
 
 # 📊 Estatísticas do GitHub  
-*(Links corrigidos – versão mais estável)*
+*(Links totalmente estáveis – sigma-five)*
 
 <div align="center">
 
-![JullyVaz GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jullyvaz&show_icons=true&hide_title=true)
+![JullyVaz GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jullyvaz&show_icons=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jullyvaz&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jullyvaz&layout=compact)
 
 </div>
 
@@ -84,16 +84,16 @@ Atuei como **Software Engineer na John Deere**, com resultados como:
 # 📁 Projetos em Destaque
 
 🔹 **Minimal API – C# .NET**  
-API enxuta e performática desenvolvida com Minimal API (.NET 7/8), aplicando boas práticas, validações, injeção de dependência, DTOs e testes.
+API minimalista e altamente performática com .NET 7/8, aplicando boas práticas, validações, DTOs, injeção de dependência e arquitetura limpa.
 
 🔹 **API de Vendas – C# .NET**  
-CRUD completo com arquitetura em camadas, Entity Framework, testes unitários e padrões de boas práticas.
+CRUD completo com arquitetura em camadas, Entity Framework, testes unitários e padrões modernos.
 
 🔹 **Automação de Relatórios com AWS Lambda**  
-Fluxo automatizado para envio de relatórios internos e externos, reduzindo esforço manual e aumentando eficiência.
+Pipeline automatizado para envio de relatórios internos e externos, reduzindo esforço manual e aumentando eficiência.
 
 🔹 **Ferramentas de Perícia Documental Digital**  
-Integração entre grafoscopia tradicional e análise digital (assinaturas eletrônicas, metadados, inconsistências e autenticação).
+Integração entre grafoscopia tradicional e análise digital (assinaturas eletrônicas, metadados e validação documental).
 
 ---
 
