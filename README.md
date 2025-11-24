@@ -68,7 +68,7 @@ Durante minha atuação como Software Engineer na **John Deere**, contribuí com
 ---
 
 # 📊 Estatísticas do GitHub  
-*(Servidor estável — sigma-five)*
+
 
 <div align="center">
 
