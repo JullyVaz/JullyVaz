@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:005CFF,100:00C9FF&height=220&text=Juliane%20Vaz&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://i.imgur.com/1l7Yjht.png" width="100%" />
 </div>
 
 
