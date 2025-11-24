@@ -1,3 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2a5298&section=header&height=110&text=Juliane%20Vaz&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243949,100:517fa4&height=200&text=Juliane%20Vaz&fontSize=42&fontColor=ffffff&fontAlignY=36" />
 </div>
+
