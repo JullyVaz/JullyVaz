@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:3f5efb&height=220&text=Juliane%20Vaz&fontSize=45&fontColor=ffffff&fontAlignY=36&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,100:0072ff&height=220&text=Juliane%20Vaz&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
+
 
 
 
