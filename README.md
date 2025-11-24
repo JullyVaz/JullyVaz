@@ -1,129 +1,46 @@
+# Juliane Vaz | Desenvolvedora Back-End & Analista de Sistemas 🚀
 
-<div align="center">
-  <img src="https://i.imgur.com/DAjCBWc.png" width="100%" />
-</div>
+Olá! [cite_start]Sou a **Juliane Vaz**, uma profissional experiente em **Desenvolvimento Back-End** e **Análise de Sistemas**, com um diferencial em **Perícia Grafotécnica e de TI**[cite: 13, 16].
 
+Com foco em **soluções escaláveis** e **qualidade de código**, atuo principalmente com as seguintes tecnologias:
 
-
-# 👋 Olá, eu é sou a **Juliane Vaz**
-
-### 💼 Desenvolvedora Back-End | Analista de Sistemas  
-### 🖋️ Perita em Grafotécnica e Tecnologia da Informação  
-### 💡 C# • .NET • SQL • AWS • SAP ABAP • Perícia Documental • Análise Forense Digital
+* [cite_start]**Linguagens e Frameworks:** C#, .NET, ASP.NET Core, Entity Framework, Python, JavaScript, SQL[cite: 13, 19, 21].
+* [cite_start]**Bancos de Dados:** SQL Server, MySQL, Oracle (PL/SQL Developer)[cite: 21, 46].
+* [cite_start]**Ferramentas e Arquitetura:** AWS Lambda, Terraform, Git, GitHub, Arquitetura em Camadas, Mockups, Testes Unitários (XUnit)[cite: 5, 19, 42, 43, 55].
 
 ---
 
-## ✨ Sobre Mim
+### 💼 Experiência e Resultados em Tecnologia
 
-Sou **Perita e Assistente Técnica em Grafotécnica e Tecnologia da Informação**, atuando na análise de documentos físicos e digitais, detecção de fraudes, verificação de autenticidade e identificação de autoria.  
-Unifico técnicas grafotécnicas tradicionais com **ferramentas tecnológicas, análise de metadados e assinatura eletrônica**, garantindo rigor técnico e precisão.
+Minha experiência profissional inclui atuações cruciais onde obtive resultados mensuráveis:
 
-Também atuo como **Desenvolvedora Back-End**, com experiência sólida em:
+* [cite_start]**Software Engineer na John Deere:** Contribui para a **redução de 24% dos incidentes** e implementei **automação de relatórios** utilizando **AWS Lambda**, aumentando a eficiência operacional[cite: 20, 39, 42].
+* [cite_start]**Perita e Assistente Técnica (Autônoma):** Especialista na **detecção de fraudes** e **verificação de autenticidade** em documentos físicos e digitais, integrando **grafoscopia** com **sistemas digitais**[cite: 16, 17, 18, 32].
+* [cite_start]**Desenvolvedor Back-End (Autônomo):** Foco em desenvolvimento de APIs RESTful com **C#, .NET, Entity Framework Core e SQL Server**, aplicando **arquitetura em camadas** e **testes unitários**[cite: 53, 54, 55].
 
-- **C#, .NET, ASP.NET Core, Entity Framework**
-- Arquitetura em camadas, SOLID e Clean Code  
-- Testes automatizados (xUnit, Moq)  
-- AWS Lambda, GitHub Actions, Terraform  
-- SQL Server • MySQL • Oracle (PL/SQL)  
-- Noção da linguagem **SAP ABAP**  
-
-Na **John Deere**, participei de iniciativas que geraram:
-
-⭐ **Redução de 24% nos incidentes**  
-⭐ Desenvolvimento e entrega de funcionalidades estratégicas  
-⭐ Automação de relatórios com AWS Lambda  
-⭐ Otimizações, code review e melhorias estruturais  
+[cite_start]Além da TI, possuo sólida experiência em **Comércio Exterior**, onde obtive uma **redução de custos** significativa (USD 4.2 milhões em 2017-2018) na administração de processos de admissão temporária[cite: 57, 59].
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+### 🌐 Conecte-se Comigo
 
-<div align="center">
+| Contato | Link |
+| :--- | :--- |
+| **LinkedIn** | [cite_start][linkedin.com/in/juliane-vaz](https://www.linkedin.com/in/juliane-vaz) [cite: 3] |
+| [cite_start]**Email** | julianeraquel@hotmail.com [cite: 2] |
 
-### 👩‍💻 Desenvolvimento
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 📈 Estatísticas do GitHub
 
-### 🗄️ Bancos de Dados
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+Para gerar os cards de estatísticas, utilize o link do **GitHub Readme Stats** com o seu usuário `jullyvaz`:
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+<p align="center">
+  <img src="https://github.com/anuraghazra/github-readme-stats/blob/master/README.md#cards" alt="GitHub Readme Stats Cards">
+</p>
 
-### 🧪 Testes
-![XUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge)
-![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge)
-
-### 📎 Outros
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jullyvaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullyvaz&layout=compact&langs_count=7&theme=dark"/>
+</p>
 
 ---
-
-# 📊 Estatísticas do GitHub  
-*(Links estáveis – sigma-five)*
-
-<div align="center">
-
-![JullyVaz GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jullyvaz&show_icons=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jullyvaz&layout=compact)
-
-</div>
-
----
-
-# 📁 Projetos em Destaque
-
-🔹 **Minimal API – C# .NET**  
-API minimalista, performática e moderna com .NET 7/8, aplicando boas práticas, validações e arquitetura limpa.
-
-🔹 **API de Vendas – C# .NET**  
-CRUD completo com arquitetura em camadas, Entity Framework, testes unitários e padrões profissionais.
-
-🔹 **Automação de Relatórios com AWS Lambda**  
-Pipeline automatizado para envio de relatórios internos e externos, aumentando eficiência e reduzindo trabalho manual.
-
-🔹 **Ferramentas de Perícia Documental Digital**  
-Análise de assinaturas eletrônicas, metadados e padrões de inconsistência, unindo tecnologia e grafoscopia.
-
----
-
-# 🧩 Perfil Profissional
-
-- Pensamento crítico  
-- Precisão técnica  
-- Segurança e ética  
-- Adaptabilidade  
-- Resolução de problemas  
-- Comunicação clara  
-- Visão analítica & investigativa  
-
----
-
-# 📬 Contato
-
-📧 **julianeraquel@hotmail.com**  
-📱 **(19) 99124-5208**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/juliane-vaz  
-📍 Campinas – SP  
-
----
-
-<div align="center">
-  
-✨ Obrigada por visitar meu perfil!  
-Se quiser conversar sobre tecnologia, perícia ou desenvolvimento Back-End, estou à disposição 🚀
-
-</div>
+**Keywords (SEO):** C#, .NET, Desenvolvedor Back-End, Analista de Sistemas, SQL, Perícia Grafotécnica, AWS Lambda, Clean Code, Soluções Escaláveis, John Deere.
