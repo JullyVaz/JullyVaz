@@ -1,16 +1,18 @@
 # 👋 Olá, eu sou a **Juliane Vaz**
 
-### 💼 Desenvolvedora Back-End | Analista de Sistemas  
-### 🖋️ Perita em Grafotécnica e Tecnologia da Informação  
-### 💡 C# • .NET • SQL • AWS • SAP ABAP • Perícia Documental • Forense Digital
+### 💼 Desenvolvedora Back-End (com noções de Front-end) | Analista de Sistemas
+🖋️ Perita Judicial em TI • Grafotécnica e Forense Digital
+💡 C# • .NET • ASP.NET MVC • SQL • AWS • Azure • JavaScript • HTML • CSS • Oracle • SAP • ETL • Perícia Documental
 
 ---
 
 ## ✨ Sobre Mim
 
-Sou **Perita em Grafotécnica e Tecnologia da Informação** e **Desenvolvedora Back-End**, com experiência em análise documental, verificação de assinaturas, metadados digitais e soluções de software em C# e .NET.
+Sou Desenvolvedora Back-End e Perita Judicial em Tecnologia da Informação, com experiência em análise documental, verificação de assinaturas, metadados digitais e desenvolvimento de soluções com foco em qualidade, segurança e rastreabilidade.
 
-Minha trajetória combina raciocínio investigativo com lógica de programação, permitindo atuar tanto na área pericial quanto no desenvolvimento de sistemas, sempre com foco em qualidade, organização e segurança.
+Minha trajetória combina raciocínio investigativo com lógica de programação, permitindo atuar tanto na área pericial quanto no desenvolvimento de sistemas, sempre com atenção a detalhes, clareza técnica e boas práticas.
+
+Também possuo noções de Front-end com JavaScript, HTML e CSS, permitindo colaborar na integração entre interface e APIs, garantindo entregas mais completas e alinhadas ao negócio.
 
 Experiência prática com:
 
@@ -18,24 +20,40 @@ Experiência prática com:
 - Arquitetura em camadas, SOLID e Clean Code  
 - SQL Server, MySQL, Oracle  
 - AWS Lambda, GitHub Actions, Terraform  
-- Testes unitários (xUnit, Moq)  
-- Noção prática de **SAP ABAP**  
+- Testes unitários (xUnit, Moq, NUnit)  
+- Experiência com SAP e noções de SAP ABAP
+- Projetos recentes envolvendo ETL com Python, Excel e Azure AI Language Studio
 
 ---
 
 # 💼 Experiência Profissional
 
+### 🔹 **Perita Judicial em TI (Grafotécnica e Forense Digital)**
+**2025 – atual**
+
+Atuação em análises técnicas envolvendo documentos, assinaturas e evidências digitais, com foco em **integridade**, **rastreabilidade** **e** **elaboração de laudos/pareceres**.
+
+**Principais entregas:**
+- Análise de **assinaturas**, **documentos digitais** e elementos técnicos de validação
+- Verificação de **metadados**, consistência e integridade de evidências
+- Elaboração de **laudos técnicos** e relatórios com linguagem objetiva e fundamentação
+- Organização e documentação de evidências com foco em **segurança da informação**
+- Aplicação de raciocínio investigativo em **análise técnica** e **validação de evidências digitais**
+
 ### 🔹 **Software Engineer — John Deere**  
 **2023 – 2024**
 
-Atuação no sistema OSGT, contribuindo com desenvolvimento, suporte e otimizações.
+Atuação em sistemas corporativos, contribuindo com desenvolvimento, suporte e otimizações em ambiente global.
 
 **Principais entregas:**
 - Desenvolvimento e manutenção em **C# / .NET**  
 - Redução de **24% nos incidentes**  
-- Automação de relatórios com **AWS Lambda**  
-- Melhorias estruturais e code review  
-- Deploys e participação em sprints globais  
+- Automação de relatórios com **AWS Lambda**
+- Consultas e análises em banco de dados (**Oracle**)
+- Contato com sistemas integrados (incluindo **SAP**)
+- Contato com aplicações e automações em **Python**
+- Melhorias estruturais e **code review**  
+- Deploys e participação em **sprints globais**       
 
 ---
 
@@ -45,10 +63,10 @@ Atuação no sistema OSGT, contribuindo com desenvolvimento, suporte e otimizaç
 Atuação no desenvolvimento de soluções back-end com foco em APIs e boas práticas.
 
 **Principais entregas:**
-- Criação de APIs e serviços REST  
+- Criação de **APIs e serviços REST**  
 - Arquitetura em camadas (SOLID, Clean Code)  
 - Entity Framework Core e SQL  
-- Testes unitários com xUnit  
+- Testes unitários com **xUnit, Moq**  
 - Documentação e versionamento no GitHub  
 
 ---
