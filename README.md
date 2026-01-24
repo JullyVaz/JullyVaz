@@ -28,8 +28,8 @@ Experiência prática com:
 
 # 💼 Experiência Profissional
 
-### 🔹 **Perita Judicial em TI (Grafotécnica e Forense Digital)**
-**2025 – atual**
+### 🔹 **Perita Judicial em TI | Forense Digital e Análise de Evidências**
+**03/2025 – Atual**
 
 Atuação em análises técnicas envolvendo documentos, assinaturas e evidências digitais, com foco em **integridade**, **rastreabilidade** **e** **elaboração de laudos/pareceres**.
 
@@ -40,6 +40,8 @@ Atuação em análises técnicas envolvendo documentos, assinaturas e evidência
 - Organização e documentação de evidências com foco em **segurança da informação**
 - Aplicação de raciocínio investigativo em **análise técnica** e **validação de evidências digitais**
 
+---
+
 ### 🔹 **Software Engineer — John Deere**  
 **2023 – 2024**
 
@@ -47,7 +49,7 @@ Atuação em sistemas corporativos, contribuindo com desenvolvimento, suporte e 
 
 **Principais entregas:**
 - Desenvolvimento e manutenção em **C# / .NET**  
-- Redução de **24% nos incidentes**  
+- Redução de **24% nos incidentes** (490 incidentes fechados pelo time no ano) 
 - Automação de relatórios com **AWS Lambda**
 - Consultas e análises em banco de dados (**Oracle**)
 - Contato com sistemas integrados (incluindo **SAP**)
@@ -75,44 +77,27 @@ Atuação no desenvolvimento de soluções back-end com foco em APIs e boas prá
 
 <div align="center">
 
-### 👩‍💻 Desenvolvimento
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+| ** 👩💻Desenvolvimento** | **🗄Bancos de Dados** |
+|---|---|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) <br> ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <br> ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <br> ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) <br> ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) <br> ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 
-### 🗄️ Bancos de Dados
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+| ** ☁ Cloud & DevOps** | ** 🧪Testes** |
+|---|---|
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) <br> ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) | ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge) <br> ![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge) |
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🧪 Testes
-![XUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge)
-![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge)
-
-### 📎 Outros
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+| **📊Dados & Automação** | **📎Outros** |
+|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) <br> ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) |
 
 </div>
-
----
 
 # 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![JullyVaz GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jullyvaz&show_icons=true&hide_title=true)
+![JullyVaz GitHub Stats](https://github-readme-stats.vercel.app/api?username=jullyvaz&show_icons=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jullyvaz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jullyvaz&layout=compact&langs_count=10&hide=c,cpp,cython,fortran,meson,go%20template,assembly)
 
 </div>
 
@@ -120,21 +105,28 @@ Atuação no desenvolvimento de soluções back-end com foco em APIs e boas prá
 
 # 📁 Projetos em Destaque
 
-🔹 **Minimal API – C# .NET**  
-API moderna e performática usando .NET 7/8.  
-[🔗 Acessar o repositório](https://github.com/jullyvaz/minimal-api)
+### 🔷 **ETL Transações Bancárias (Python)**
+ETL completo com validação e automação de processamento. 📎 [Acessar o repositório](https://github.com/JullyVaz/etl-transacoes-bancarias-python)
 
 ---
 
-🔹 **PocBancoAPI – Arquitetura em Camadas**  
-Projeto Back-End em ASP.NET Core estruturado em camadas (API, Service, Business e Repository). Inclui AutoMapper, Unit of Work e boas práticas de manutenção.  
-[🔗 Acessar o repositório](https://github.com/JullyVaz/PocBancoAPI)
+### 🔷 **Minimal API – C# .NET**
+API moderna e performática usando .NET 7/8. 📎 [Acessar o repositório](https://github.com/JullyVaz/minimal-api)
 
 ---
 
-🔹 **API de Vendas – C# .NET**  
-CRUD completo com arquitetura profissional.  
-[🔗 Acessar o repositório](https://github.com/Payment-API)
+### 🔷 **PocBancoAPI – Arquitetura em Camadas**
+Projeto Back-End em ASP.NET Core estruturado em camadas (API, Service, Business e Repository). Inclui AutoMapper, Unit of Work e boas práticas de manutenção. 📎 [Acessar o repositório](https://github.com/JullyVaz/PocBancoAPI)
+
+---
+
+### 🔷 **API de Vendas – C# .NET**
+CRUD completo com arquitetura profissional. 📎 [Acessar o repositório]((https://github.com/JullyVaz/Payment-API))
+
+---
+
+### 🔷 **Dashboard Vendas Xbox (Excel)**
+Dashboard de vendas com foco em organização e visualização de dados. 📎 [Acessar o repositório](https://github.com/JullyVaz/dashboard-vendas-xbox-excel)
 
 ---
 
