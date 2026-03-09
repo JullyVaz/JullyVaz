@@ -2,6 +2,7 @@
 
 ### 💼 Back-End Developer | C# .NET | Node.js | SQL | AWS | REST APIs | Cloud
 💡 C# • .NET • ASP.NET Core • Node.js • SQL • AWS • Azure • REST APIs • CI/CD • Terraform • Python • Git • Clean Code • Cloud
+
 🖋️ Perita Judicial em TI | Forense Digital | Análise Técnica de Sistemas e Documentos
 ---
 
