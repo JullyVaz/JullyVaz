@@ -1,28 +1,26 @@
 # 👋 Olá, eu sou a **Juliane Vaz**
 
-### 💼 Desenvolvedora Back-End (com noções de Front-end) | Analista de Sistemas
-🖋️ Perita Judicial em TI • Grafotécnica e Forense Digital
-💡 C# • .NET • ASP.NET MVC • SQL • AWS • Azure • JavaScript • HTML • CSS • Oracle • SAP • ETL • Perícia Documental
-
+### 💼 Back-End Developer | C# .NET | Node.js | SQL | AWS | REST APIs | Cloud
+💡 C# • .NET • ASP.NET Core • Node.js • SQL • AWS • Azure • REST APIs • CI/CD • Terraform • Python • Git • Clean Code • Cloud
+🖋️ Perita Judicial em TI | Forense Digital | Análise Técnica de Sistemas e Documentos
 ---
 
 ## ✨ Sobre Mim
 
-Sou Desenvolvedora Back-End e Perita Judicial em Tecnologia da Informação, com experiência em análise documental, verificação de assinaturas, metadados digitais e desenvolvimento de soluções com foco em qualidade, segurança e rastreabilidade.
+Desenvolvedora Back-End com experiência em desenvolvimento de APIs, sistemas corporativos e integrações, utilizando C#, .NET, Node.js, SQL e serviços em cloud.
 
-Minha trajetória combina raciocínio investigativo com lógica de programação, permitindo atuar tanto na área pericial quanto no desenvolvimento de sistemas, sempre com atenção a detalhes, clareza técnica e boas práticas.
+Atuação em ambiente corporativo global com desenvolvimento e sustentação de aplicações críticas, automação de processos, integração entre serviços e melhorias estruturais, aplicando boas práticas de engenharia de software, Clean Code e arquitetura em camadas.
 
-Também possuo noções de Front-end com JavaScript, HTML e CSS, permitindo colaborar na integração entre interface e APIs, garantindo entregas mais completas e alinhadas ao negócio.
+Experiência com AWS, CI/CD, Git, bancos de dados relacionais, testes automatizados e metodologias ágeis, participando de sprints, deploys e suporte a produção.
 
-Experiência prática com:
+Também atuo como Perita Judicial em Tecnologia da Informação, realizando análises técnicas e forenses digitais, o que reforça minha capacidade analítica, atenção a detalhes e foco em segurança, rastreabilidade e qualidade na construção de software.
+Sou Desenvolvedora Back-End com experiência no desenvolvimento de APIs REST, sistemas corporativos e automações, utilizando C#, .NET, Node.js, SQL e serviços em cloud.
 
-- C#, .NET, ASP.NET Core, Entity Framework  
-- Arquitetura em camadas, SOLID e Clean Code  
-- SQL Server, MySQL, Oracle  
-- AWS Lambda, GitHub Actions, Terraform  
-- Testes unitários (xUnit, Moq, NUnit)  
-- Experiência com SAP e noções de SAP ABAP
-- Projetos recentes envolvendo ETL com Python, Excel e Azure AI Language Studio
+Atuei em ambiente corporativo global, participando da construção e manutenção de aplicações críticas, integração entre sistemas, automação de processos e melhorias estruturais, sempre aplicando boas práticas de engenharia de software, Clean Code e arquitetura em camadas.
+
+Possuo experiência com AWS, CI/CD, bancos de dados relacionais, testes automatizados e versionamento com Git, além de participação em squads ágeis e ciclos de desenvolvimento com deploy contínuo.
+
+Também atuo como Perita Judicial em Tecnologia da Informação, realizando análises técnicas de documentos e evidências digitais, o que reforça minha atenção a detalhes, rastreabilidade, segurança e qualidade na construção de software.
 
 ---
 
@@ -31,15 +29,43 @@ Experiência prática com:
 ### 🔹 **Perita Judicial em TI | Forense Digital e Análise de Evidências**
 **03/2025 – Atual**
 
-Atuação em análises técnicas envolvendo documentos, assinaturas e evidências digitais, com foco em **integridade**, **rastreabilidade** **e** **elaboração de laudos/pareceres**.
+Atuação em **análises técnicas**, validação de documentos digitais e verificação de informações, com foco em **integridade, rastreabilidade e segurança de dados**.
 
-**Principais entregas:**
-- Análise de **assinaturas**, **documentos digitais** e elementos técnicos de validação
-- Verificação de **metadados**, consistência e integridade de evidências
-- Elaboração de **laudos técnicos** e relatórios com linguagem objetiva e fundamentação
-- Organização e documentação de evidências com foco em **segurança da informação**
-- Aplicação de raciocínio investigativo em **análise técnica** e **validação de evidências digitais**
+Principais atividades:
 
+- Análise técnica de documentos e dados digitais  
+- Verificação de consistência de informações e registros  
+- Elaboração de **laudos e pareceres técnicos**  
+- Organização e validação de evidências  
+- Aplicação de metodologia analítica e investigação técnica
+
+Principais entregas:
+
+- Elaboração de laudos técnicos com análise detalhada de documentos e registros digitais  
+- Identificação de inconsistências e divergências em informações analisadas  
+- Organização de evidências para suporte técnico em processos judiciais  
+
+### 🔹 **Software Engineer — John Deere** 
+2023 – 2024
+
+Atuação em ambiente corporativo global no desenvolvimento e sustentação de **aplicações críticas**, com foco em **Back-End, APIs, automação e integridade de dados**.
+
+Principais atividades:
+- Desenvolvimento de **Back-End com C# / .NET**
+- Construção e manutenção de **APIs REST**
+- Automação de processos com **AWS Lambda**
+- Consultas e ajustes em **Oracle e SQL Server**
+- Participação em **pipelines CI/CD**
+- Suporte a produção e análise de incidentes
+- Trabalho em **squad ágil global**
+
+Principais entregas:
+
+- Deploy de funcionalidades em produção com uso de CI/CD  
+- Automação de processos utilizando AWS Lambda  
+- Correção de incidentes em ambiente crítico  
+- Implementação de melhorias em regras de negócio  
+- Contribuição para estabilidade e redução de falhas no sistema 
 ---
 
 ### 🔹 **Software Engineer — John Deere**  
@@ -62,16 +88,35 @@ Atuação em sistemas corporativos, contribuindo com desenvolvimento, suporte e 
 ### 🔹 **Desenvolvedora de Software — Autônoma**  
 **2022 – 2023**
 
-Atuação no desenvolvimento de soluções back-end com foco em APIs e boas práticas.
+ADesenvolvimento de APIs e aplicações com foco em **arquitetura em camadas e boas práticas**.
 
-**Principais entregas:**
-- Criação de **APIs e serviços REST**  
-- Arquitetura em camadas (SOLID, Clean Code)  
-- Entity Framework Core e SQL  
-- Testes unitários com **xUnit, Moq**  
-- Documentação e versionamento no GitHub  
+Principais atividades:
 
----
+- Desenvolvimento de **APIs REST com ASP.NET Core**
+- Uso de **Entity Framework e SQL Server**
+- Testes unitários com **xUnit**
+- Versionamento com **Git / GitHub**
+- Aplicação de **SOLID e Clean Code**
+
+Principais entregas:
+
+- Desenvolvimento completo de APIs funcionais
+- Implementação de arquitetura em camadas
+- Criação de testes automatizados
+- Organização de código seguindo boas práticas
+✅ Por que isso deixa nível pleno
+
+Agora seu perfil mostra:
+
+✔ fez
+✔ entregou
+✔ deployou
+✔ corrigiu
+✔ integrou
+✔ automatizou
+✔ participou de produção
+✔ trabalhou em squad
+✔ trabalhou com cloud
 
 # 🛠️ Tecnologias & Ferramentas
 
@@ -89,17 +134,15 @@ Atuação no desenvolvimento de soluções back-end com foco em APIs e boas prá
 |---|---|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) <br> ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) |
 
-</div>
 
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![JullyVaz GitHub Stats](https://github-readme-stats.vercel.app/api?username=jullyvaz&show_icons=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jullyvaz&layout=compact&langs_count=10&hide=c,cpp,cython,fortran,meson,go%20template,assembly)
 
 </div>
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight)
 
 ---
 
