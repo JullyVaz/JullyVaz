@@ -1,21 +1,21 @@
 # 👋 Olá, eu sou a **Juliane Vaz**
 
-### 💼 Back-End Developer | C# .NET | Node.js | SQL | AWS | REST APIs | Cloud
-💡 C# • .NET • ASP.NET Core • Node.js • SQL • AWS • Azure • REST APIs • CI/CD • Terraform • Python • Git • Clean Code • Cloud
+### 💼 Back-End Developer | C# .NET | SQL | AWS | REST APIs | Cloud
+
+💡 C# • .NET • ASP.NET Core • SQL • AWS • Azure • REST APIs • CI/CD • Terraform • Python • Git • Clean Code • Cloud
 
 ### 🖋️ Perita Judicial em TI | Forense Digital | Análise Técnica de Sistemas e Documentos
 ---
 
 ## ✨ Sobre Mim
 
-Desenvolvedora Back-End com experiência em desenvolvimento de APIs, sistemas corporativos e integrações, utilizando C#, .NET, Node.js, SQL e serviços em cloud.
+Desenvolvedora Back-End com experiência em desenvolvimento de APIs, sistemas corporativos e integrações, utilizando C#, .NET, SQL e serviços em cloud.
 
 Atuação em ambiente corporativo global com desenvolvimento e sustentação de aplicações críticas, automação de processos, integração entre serviços e melhorias estruturais, aplicando boas práticas de engenharia de software, Clean Code e arquitetura em camadas.
 
 Experiência com AWS, CI/CD, Git, bancos de dados relacionais, testes automatizados e metodologias ágeis, participando de sprints, deploys e suporte a produção.
 
 Também atuo como Perita Judicial em Tecnologia da Informação, realizando análises técnicas e forenses digitais, o que reforça minha capacidade analítica, atenção a detalhes e foco em segurança, rastreabilidade e qualidade na construção de software.
-Sou Desenvolvedora Back-End com experiência no desenvolvimento de APIs REST, sistemas corporativos e automações, utilizando C#, .NET, Node.js, SQL e serviços em cloud.
 
 Atuei em ambiente corporativo global, participando da construção e manutenção de aplicações críticas, integração entre sistemas, automação de processos e melhorias estruturais, sempre aplicando boas práticas de engenharia de software, Clean Code e arquitetura em camadas.
 
@@ -44,7 +44,9 @@ Principais entregas:
 
 - Elaboração de laudos técnicos com análise detalhada de documentos e registros digitais  
 - Identificação de inconsistências e divergências em informações analisadas  
-- Organização de evidências para suporte técnico em processos judiciais  
+- Organização de evidências para suporte técnico em processos judiciais
+
+---
 
 ### 🔹 **Software Engineer — John Deere** 
 2023 – 2024
@@ -67,22 +69,6 @@ Principais entregas:
 - Correção de incidentes em ambiente crítico  
 - Implementação de melhorias em regras de negócio  
 - Contribuição para estabilidade e redução de falhas no sistema 
----
-
-### 🔹 **Software Engineer — John Deere**  
-**2023 – 2024**
-
-Atuação em sistemas corporativos, contribuindo com desenvolvimento, suporte e otimizações em ambiente global.
-
-**Principais entregas:**
-- Desenvolvimento e manutenção em **C# / .NET**  
-- Redução de **24% nos incidentes** (490 incidentes fechados pelo time no ano) 
-- Automação de relatórios com **AWS Lambda**
-- Consultas e análises em banco de dados (**Oracle**)
-- Contato com sistemas integrados (incluindo **SAP**)
-- Contato com aplicações e automações em **Python**
-- Melhorias estruturais e **code review**  
-- Deploys e participação em **sprints globais**       
 
 ---
 
@@ -120,7 +106,7 @@ Principais entregas:
 
 | **📊Dados & Automação** | **📎Outros** |
 |---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) <br> ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
 
 
 
@@ -134,10 +120,7 @@ Principais entregas:
 
 ---
 
-# 📁 Projetos em Destaque
-
-## 🚀 Projetos em destaque
-
+## 📁 Projetos em Destaque
 
 ### 🔹 Minimal API — .NET 8 | REST API | Autenticação | Segurança
 
@@ -199,6 +182,7 @@ Principais pontos:
 - EF Core InMemory
 - Testes com xUnit
 - Validação de regras
+
 
 
 ### 🔹 ETL Transações Bancárias — Python | Automação | Processamento de Dados
