@@ -3,7 +3,7 @@
 ### 💼 Back-End Developer | C# .NET | Node.js | SQL | AWS | REST APIs | Cloud
 💡 C# • .NET • ASP.NET Core • Node.js • SQL • AWS • Azure • REST APIs • CI/CD • Terraform • Python • Git • Clean Code • Cloud
 
-🖋️ Perita Judicial em TI | Forense Digital | Análise Técnica de Sistemas e Documentos
+### 🖋️ Perita Judicial em TI | Forense Digital | Análise Técnica de Sistemas e Documentos
 ---
 
 ## ✨ Sobre Mim
@@ -89,7 +89,7 @@ Atuação em sistemas corporativos, contribuindo com desenvolvimento, suporte e 
 ### 🔹 **Desenvolvedora de Software — Autônoma**  
 **2022 – 2023**
 
-ADesenvolvimento de APIs e aplicações com foco em **arquitetura em camadas e boas práticas**.
+Desenvolvimento de APIs e aplicações com foco em **arquitetura em camadas e boas práticas**.
 
 Principais atividades:
 
@@ -105,19 +105,6 @@ Principais entregas:
 - Implementação de arquitetura em camadas
 - Criação de testes automatizados
 - Organização de código seguindo boas práticas
-✅ Por que isso deixa nível pleno
-
-Agora seu perfil mostra:
-
-✔ fez
-✔ entregou
-✔ deployou
-✔ corrigiu
-✔ integrou
-✔ automatizou
-✔ participou de produção
-✔ trabalhou em squad
-✔ trabalhou com cloud
 
 # 🛠️ Tecnologias & Ferramentas
 
@@ -149,28 +136,94 @@ Agora seu perfil mostra:
 
 # 📁 Projetos em Destaque
 
-### 🔷 **ETL Transações Bancárias (Python)**
-ETL completo com validação e automação de processamento. 📎 [Acessar o repositório](https://github.com/JullyVaz/etl-transacoes-bancarias-python)
+## 🚀 Projetos em destaque
 
----
 
-### 🔷 **Minimal API – C# .NET**
-API moderna e performática usando .NET 7/8. 📎 [Acessar o repositório](https://github.com/JullyVaz/minimal-api)
+### 🔹 Minimal API — .NET 8 | REST API | Autenticação | Segurança
 
----
+Projeto desenvolvido com .NET 8 utilizando Minimal API, com foco em segurança, autenticação e organização do código.
 
-### 🔷 **PocBancoAPI – Arquitetura em Camadas**
-Projeto Back-End em ASP.NET Core estruturado em camadas (API, Service, Business e Repository). Inclui AutoMapper, Unit of Work e boas práticas de manutenção. 📎 [Acessar o repositório](https://github.com/JullyVaz/PocBancoAPI)
+Principais pontos:
 
----
+- .NET 8
+- Minimal API
+- Autenticação e autorização
+- Entity Framework Core
+- CRUD
+- Validação de dados
+- Estrutura organizada
 
-### 🔷 **API de Vendas – C# .NET**
-CRUD completo com arquitetura profissional. 📎 [Acessar o repositório]((https://github.com/JullyVaz/Payment-API))
 
----
 
-### 🔷 **Dashboard Vendas Xbox (Excel)**
-Dashboard de vendas com foco em organização e visualização de dados. 📎 [Acessar o repositório](https://github.com/JullyVaz/dashboard-vendas-xbox-excel)
+### 🔹 PocBancoAPI — ASP.NET Core | Arquitetura em Camadas | SQL Server
+
+Projeto Back-End simulando operações bancárias, com foco em organização do código e boas práticas.
+
+Principais pontos:
+
+- ASP.NET Core Web API
+- Arquitetura em camadas
+- Entity Framework Core
+- SQL Server
+- Injeção de dependência
+- AutoMapper
+- Testes unitários com xUnit e Moq
+
+
+
+### 🔹 API de Vendas — ASP.NET Core | REST API | SQL Server
+
+API para gerenciamento de vendas com foco em regras de negócio e organização em camadas.
+
+Principais pontos:
+
+- ASP.NET Core
+- REST API
+- CRUD
+- SQL Server
+- Entity Framework Core
+- Controller / Service / Repository
+- Validação de dados
+
+
+
+### 🔹 Payment API — ASP.NET Core | REST API | Testes Unitários
+
+API para simulação de operações financeiras com foco em testes automatizados.
+
+Principais pontos:
+
+- ASP.NET Core Web API
+- CRUD
+- Entity Framework Core
+- EF Core InMemory
+- Testes com xUnit
+- Validação de regras
+
+
+### 🔹 ETL Transações Bancárias — Python | Automação | Processamento de Dados
+
+Projeto de automação para leitura e tratamento de dados financeiros.
+
+Principais pontos:
+
+- Python
+- Processamento de dados
+- Automação
+- Logs
+- Estrutura modular
+
+
+### 🔹 Azure Language Studio — AI | NLP | Cloud
+
+Projeto utilizando serviços de IA da Azure para análise de texto.
+
+Principais pontos:
+
+- Azure AI Language
+- Sentiment Analysis
+- Opinion Mining
+- NLP
 
 ---
 
