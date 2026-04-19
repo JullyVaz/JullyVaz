@@ -17,12 +17,6 @@ Experiência com AWS, CI/CD, Git, bancos de dados relacionais, testes automatiza
 
 Também atuo como Perita Judicial em Tecnologia da Informação, realizando análises técnicas e forenses digitais, o que reforça minha capacidade analítica, atenção a detalhes e foco em segurança, rastreabilidade e qualidade na construção de software.
 
-Atuei em ambiente corporativo global, participando da construção e manutenção de aplicações críticas, integração entre sistemas, automação de processos e melhorias estruturais, sempre aplicando boas práticas de engenharia de software, Clean Code e arquitetura em camadas.
-
-Possuo experiência com AWS, CI/CD, bancos de dados relacionais, testes automatizados e versionamento com Git, além de participação em squads ágeis e ciclos de desenvolvimento com deploy contínuo.
-
-Também atuo como Perita Judicial em Tecnologia da Informação, realizando análises técnicas de documentos e evidências digitais, o que reforça minha atenção a detalhes, rastreabilidade, segurança e qualidade na construção de software.
-
 ---
 
 # 💼 Experiência Profissional
