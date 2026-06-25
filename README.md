@@ -9,37 +9,42 @@
 
 ## ✨ Sobre Mim
 
-Desenvolvedora Back-End com experiência em desenvolvimento de APIs, sistemas corporativos e integrações, utilizando C#, .NET, SQL e serviços em cloud.
+## ✨ Sobre Mim
 
-Atuação em ambiente corporativo global com desenvolvimento e sustentação de aplicações críticas, automação de processos, integração entre serviços e melhorias estruturais, aplicando boas práticas de engenharia de software, Clean Code e arquitetura em camadas.
+## ✨ Sobre Mim
 
-Experiência com AWS, CI/CD, Git, bancos de dados relacionais, testes automatizados e metodologias ágeis, participando de sprints, deploys e suporte a produção.
+## ✨ Sobre Mim
 
-Também atuo como Perita Judicial em Tecnologia da Informação, realizando análises técnicas e forenses digitais, o que reforça minha capacidade analítica, atenção a detalhes e foco em segurança, rastreabilidade e qualidade na construção de software.
+**Desenvolvedora Back-End** e **Perita Judicial em Tecnologia da Informação**, com experiência no desenvolvimento de **APIs REST**, sistemas corporativos e automação utilizando **C#**, **.NET**, **ASP.NET Core**, **SQL Server**, **Python** e serviços em **Cloud**.
+
+Atuei como **Software Engineer** na **John Deere**, contribuindo para o desenvolvimento e sustentação de aplicações críticas, integrações entre sistemas e melhorias de processos em ambiente corporativo global.
+
+Como **Perita Judicial em Tecnologia da Informação**, realizo análises técnicas de documentos e evidências digitais, elaboro laudos e pareceres técnicos e aplico metodologias voltadas à integridade, rastreabilidade e confiabilidade das informações.
+
+Busco desenvolver soluções escaláveis, seguras e de alta qualidade, aplicando boas práticas de engenharia de software, pensamento analítico e resolução de problemas complexos.
 
 ---
 
 # 💼 Experiência Profissional
 
-### 🔹 **Perita Judicial em TI | Forense Digital e Análise de Evidências**
+### 🔹 **Desenvolvedora Back-End .NET/Python | Perita Judicial em Tecnologia da Informação**
 **03/2025 – Atual**
 
-Atuação em **análises técnicas**, validação de documentos digitais e verificação de informações, com foco em **integridade, rastreabilidade e segurança de dados**.
+Atuação autônoma no desenvolvimento de soluções **Back-End** e em **Perícia Judicial em Tecnologia da Informação**, combinando engenharia de software, análise técnica e investigação de evidências digitais.
 
-Principais atividades:
+### **Principais atividades**
 
-- Análise técnica de documentos e dados digitais  
-- Verificação de consistência de informações e registros  
-- Elaboração de **laudos e pareceres técnicos**  
-- Organização e validação de evidências  
-- Aplicação de metodologia analítica e investigação técnica
+- Desenvolvimento de aplicações utilizando **C#**, **.NET**, **ASP.NET Core**, **Python**, **Entity Framework Core** e **SQL Server**.
+- Desenvolvimento de **APIs REST**, automação de processos e projetos de **ETL**.
+- Aplicação de **SOLID**, **Clean Code**, arquitetura em camadas, **Git/GitHub** e testes automatizados.
+- Elaboração de **laudos técnicos**, análise documental e validação de **evidências digitais** para processos judiciais.
 
-Principais entregas:
+### **Principais entregas**
 
-- Elaboração de laudos técnicos com análise detalhada de documentos e registros digitais  
-- Identificação de inconsistências e divergências em informações analisadas  
-- Organização de evidências para suporte técnico em processos judiciais
-
+- APIs REST e aplicações **Back-End**.
+- Projetos de automação, integração de serviços e **ETL**.
+- Laudos e pareceres técnicos fundamentados.
+- Análise e organização de evidências digitais.
 ---
 
 ### 🔹 **Software Engineer — John Deere** 
