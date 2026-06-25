@@ -9,12 +9,6 @@
 
 ## ✨ Sobre Mim
 
-## ✨ Sobre Mim
-
-## ✨ Sobre Mim
-
-## ✨ Sobre Mim
-
 **Desenvolvedora Back-End** e **Perita Judicial em Tecnologia da Informação**, com experiência no desenvolvimento de **APIs REST**, sistemas corporativos e automação utilizando **C#**, **.NET**, **ASP.NET Core**, **SQL Server**, **Python** e serviços em **Cloud**.
 
 Atuei como **Software Engineer** na **John Deere**, contribuindo para o desenvolvimento e sustentação de aplicações críticas, integrações entre sistemas e melhorias de processos em ambiente corporativo global.
