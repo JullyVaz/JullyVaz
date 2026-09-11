@@ -111,13 +111,14 @@ Developed APIs and applications with a focus on **layered architecture** and **s
 
 </div>
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight)
+## 🚀 Core Technologies
 
----
+**C# / .NET** • **Python** • **Java / Spring Boot** • **ASP.NET Core** • **SQL** • **AWS** • **Azure** • **REST APIs**
+
+
+
 
 ## 📁 Featured Projects
 
