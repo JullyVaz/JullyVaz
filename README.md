@@ -70,7 +70,7 @@ Worked in a global corporate environment on the development and maintenance of *
 
 ---
 
-### 🔹 **Software Developer — Independent**
+### 🔹 **Software Developer — Freelance**
 
 **2022 – 2023**
 
@@ -113,9 +113,9 @@ Developed APIs and applications with a focus on **layered architecture** and **s
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JullyVaz\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JullyVaz\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight)
 
 ---
 
