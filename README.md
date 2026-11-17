@@ -308,7 +308,7 @@ The proposed solution aims to organize and track job opportunities in the techno
 
 # 🌐 Connect with Me
 
-- **GitHub:** [github.com/JullyVaz](https://github.com/JullyVaz)
+- **Project Repository:** [juliane-vaz-pericia](https://github.com/JullyVaz/juliane-vaz-pericia)
 - **LinkedIn:** [Juliane Vaz](https://www.linkedin.com/in/juliane-vaz)
 
 ---
