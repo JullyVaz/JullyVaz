@@ -71,7 +71,7 @@ Worked in a global corporate environment on the development and maintenance of c
 
 ---
 
-### 🔹 Software Developer — Freelance
+### 🔹 Software Developer — Freelancer
 
 **2022 – 2023**
 
